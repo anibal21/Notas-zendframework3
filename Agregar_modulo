@@ -1,0 +1,3 @@
+1- Primero agregamos el módulo en el config del proyecto
+2-Luego creamos todas las carpetas respectivas en model (config, src...)
+3-Luego vamos a composer.json y agregamos el modulo en el codigo, y colocamos composer update en la carpeta del proyecto.
